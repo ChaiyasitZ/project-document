@@ -1,0 +1,593 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{gratzer2008practical}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=61f6f18f31949f701ec701dd865e288a}{%
+           family={Gratzer},
+           familyi={G\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{fullhash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{fullhashraw}{61f6f18f31949f701ec701dd865e288a}
+      \strng{bibnamehash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{authorbibnamehash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{authornamehash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{authorfullhash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{authorfullhashraw}{61f6f18f31949f701ec701dd865e288a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Practical LaTeX}
+      \field{year}{2008}
+    \endentry
+    \entry{kopka2004guide}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7ad513520366785f926861843001ed4e}{%
+           family={Kopka},
+           familyi={K\bibinitperiod},
+           given={Helmut},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d668f2ff08c48a82cff87c087cdf12e}{%
+           family={Daly},
+           familyi={D\bibinitperiod},
+           given={Patrick\bibnamedelima W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{787774515110f46e582c206f217ae671}
+      \strng{fullhash}{787774515110f46e582c206f217ae671}
+      \strng{fullhashraw}{787774515110f46e582c206f217ae671}
+      \strng{bibnamehash}{787774515110f46e582c206f217ae671}
+      \strng{authorbibnamehash}{787774515110f46e582c206f217ae671}
+      \strng{authornamehash}{787774515110f46e582c206f217ae671}
+      \strng{authorfullhash}{787774515110f46e582c206f217ae671}
+      \strng{authorfullhashraw}{787774515110f46e582c206f217ae671}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th}
+      \field{title}{Guide to LaTeX}
+      \field{year}{2004}
+    \endentry
+    \entry{lamport1994latex}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5d77435450d10a850a5b58577b9a456b}{%
+           family={Lamport},
+           familyi={L\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \strng{bibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorbibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{LaTeX: A Document Preparation System}
+      \field{year}{1994}
+    \endentry
+    \entry{overleaflearn}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80d685e90fa23d7996a66e45aa2d24ad}{%
+           family={{Overleaf}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{fullhash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{fullhashraw}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{bibnamehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authorbibnamehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authornamehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authorfullhash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authorfullhashraw}{80d685e90fa23d7996a66e45aa2d24ad}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{(ม.ป.ป.)}
+      \field{title}{Documentation – Overleaf, Online LaTeX Editor}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.overleaf.com/learn
+      \endverb
+      \verb{url}
+      \verb https://www.overleaf.com/learn
+      \endverb
+    \endentry
+    \entry{latexprojectabout}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b5993c3dcc356627edc781ba1606427b}{%
+           family={{The LaTeX Project}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{fullhash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{fullhashraw}{b5993c3dcc356627edc781ba1606427b}
+      \strng{bibnamehash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{authorbibnamehash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{authornamehash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{authorfullhash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{authorfullhashraw}{b5993c3dcc356627edc781ba1606427b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{(ม.ป.ป.)}
+      \field{title}{About LaTeX}
+      \field{urlday}{5}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.latex-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.latex-project.org/
+      \endverb
+    \endentry
+    \entry{lampangrajabhat2013}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a6f878a78f3bb51e02c1d3b47652f7d}{%
+           family={คูพูลทรัพย์},
+           familyi={คู\bibinitperiod},
+           given={ธานินทร์},
+           giveni={ธ\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{fullhash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{fullhashraw}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{bibnamehash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{authorbibnamehash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{authornamehash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{authorfullhash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{authorfullhashraw}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \field{sortinit}{คู}
+      \field{sortinithash}{6becd9e5fde883702b7400499cfccca1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Technology Lampang Rajabhat University Journal}
+      \field{title}{การพัฒนาการจัดทำเอกสารวิชาการด้วยภาษา {TeX}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://li01.tci-thaijo.org/index.php/Itech/article/view/29312/25200
+      \endverb
+      \verb{url}
+      \verb https://li01.tci-thaijo.org/index.php/Itech/article/view/29312/25200
+      \endverb
+    \endentry
+    \entry{Tanya2008}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df7216551a347a311ad19e10333d1e1c}{%
+           family={ภู่วโรดม},
+           familyi={ภู่\bibinitperiod},
+           given={ธันยา},
+           giveni={ธั\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {มหาวิทยาลัยนเรศวร}%
+      }
+      \strng{namehash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{fullhash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{fullhashraw}{df7216551a347a311ad19e10333d1e1c}
+      \strng{bibnamehash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{authorbibnamehash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{authornamehash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{authorfullhash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{authorfullhashraw}{df7216551a347a311ad19e10333d1e1c}
+      \field{sortinit}{ภู่}
+      \field{sortinithash}{eee99e0df11072ab44f324d4df3e3918}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{การออกแบบรูปแบบเอกสารสำหรับปริญญานิพนธ์ด้วยโปรแกรมสำเร็จรูป LaTex ภาษาไทย}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nuir.lib.nu.ac.th/dspace/bitstream/123456789/1302/1/Thanya%20Poowarodom.pdf
+      \endverb
+      \verb{url}
+      \verb https://nuir.lib.nu.ac.th/dspace/bitstream/123456789/1302/1/Thanya%20Poowarodom.pdf
+      \endverb
+    \endentry
+    \entry{wanwaree2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=419c7aa34de6c3f0215e7c74878513b0}{%
+           family={หวานวารี},
+           familyi={ห\bibinitperiod},
+           given={ฑิตยา},
+           giveni={ฑิ\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {จุฬาลงกรณ์มหาวิทยาลัย}%
+      }
+      \strng{namehash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{fullhash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{fullhashraw}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{bibnamehash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{authorbibnamehash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{authornamehash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{authorfullhash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{authorfullhashraw}{419c7aa34de6c3f0215e7c74878513b0}
+      \field{sortinit}{ห}
+      \field{sortinithash}{e1438694a9ea1e7316fe34e8934c7b14}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{การใช้ {LaTeX} สำหรับสร้างเอกสารงานวิชาการ}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://pioneer.netserv.chula.ac.th/~wdittaya/LaTeX/2022-09-17-tutorial.pdf
+      \endverb
+      \verb{url}
+      \verb http://pioneer.netserv.chula.ac.th/~wdittaya/LaTeX/2022-09-17-tutorial.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{gratzer2008practical}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=61f6f18f31949f701ec701dd865e288a}{%
+           family={Gratzer},
+           familyi={G\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{fullhash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{fullhashraw}{61f6f18f31949f701ec701dd865e288a}
+      \strng{bibnamehash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{authorbibnamehash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{authornamehash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{authorfullhash}{61f6f18f31949f701ec701dd865e288a}
+      \strng{authorfullhashraw}{61f6f18f31949f701ec701dd865e288a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Practical LaTeX}
+      \field{year}{2008}
+    \endentry
+    \entry{kopka2004guide}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7ad513520366785f926861843001ed4e}{%
+           family={Kopka},
+           familyi={K\bibinitperiod},
+           given={Helmut},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d668f2ff08c48a82cff87c087cdf12e}{%
+           family={Daly},
+           familyi={D\bibinitperiod},
+           given={Patrick\bibnamedelima W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{787774515110f46e582c206f217ae671}
+      \strng{fullhash}{787774515110f46e582c206f217ae671}
+      \strng{fullhashraw}{787774515110f46e582c206f217ae671}
+      \strng{bibnamehash}{787774515110f46e582c206f217ae671}
+      \strng{authorbibnamehash}{787774515110f46e582c206f217ae671}
+      \strng{authornamehash}{787774515110f46e582c206f217ae671}
+      \strng{authorfullhash}{787774515110f46e582c206f217ae671}
+      \strng{authorfullhashraw}{787774515110f46e582c206f217ae671}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th}
+      \field{title}{Guide to LaTeX}
+      \field{year}{2004}
+    \endentry
+    \entry{lamport1994latex}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5d77435450d10a850a5b58577b9a456b}{%
+           family={Lamport},
+           familyi={L\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \strng{bibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorbibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{LaTeX: A Document Preparation System}
+      \field{year}{1994}
+    \endentry
+    \entry{overleaflearn}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80d685e90fa23d7996a66e45aa2d24ad}{%
+           family={{Overleaf}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{fullhash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{fullhashraw}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{bibnamehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authorbibnamehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authornamehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authorfullhash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authorfullhashraw}{80d685e90fa23d7996a66e45aa2d24ad}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{(ม.ป.ป.)}
+      \field{title}{Documentation – Overleaf, Online LaTeX Editor}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.overleaf.com/learn
+      \endverb
+      \verb{url}
+      \verb https://www.overleaf.com/learn
+      \endverb
+    \endentry
+    \entry{latexprojectabout}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b5993c3dcc356627edc781ba1606427b}{%
+           family={{The LaTeX Project}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{fullhash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{fullhashraw}{b5993c3dcc356627edc781ba1606427b}
+      \strng{bibnamehash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{authorbibnamehash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{authornamehash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{authorfullhash}{b5993c3dcc356627edc781ba1606427b}
+      \strng{authorfullhashraw}{b5993c3dcc356627edc781ba1606427b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{(ม.ป.ป.)}
+      \field{title}{About LaTeX}
+      \field{urlday}{5}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.latex-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.latex-project.org/
+      \endverb
+    \endentry
+    \entry{lampangrajabhat2013}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a6f878a78f3bb51e02c1d3b47652f7d}{%
+           family={คูพูลทรัพย์},
+           familyi={คู\bibinitperiod},
+           given={ธานินทร์},
+           giveni={ธ\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{fullhash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{fullhashraw}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{bibnamehash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{authorbibnamehash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{authornamehash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{authorfullhash}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \strng{authorfullhashraw}{5a6f878a78f3bb51e02c1d3b47652f7d}
+      \field{sortinit}{คู}
+      \field{sortinithash}{6becd9e5fde883702b7400499cfccca1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Technology Lampang Rajabhat University Journal}
+      \field{title}{การพัฒนาการจัดทำเอกสารวิชาการด้วยภาษา {TeX}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://li01.tci-thaijo.org/index.php/Itech/article/view/29312/25200
+      \endverb
+      \verb{url}
+      \verb https://li01.tci-thaijo.org/index.php/Itech/article/view/29312/25200
+      \endverb
+    \endentry
+    \entry{Tanya2008}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df7216551a347a311ad19e10333d1e1c}{%
+           family={ภู่วโรดม},
+           familyi={ภู่\bibinitperiod},
+           given={ธันยา},
+           giveni={ธั\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {มหาวิทยาลัยนเรศวร}%
+      }
+      \strng{namehash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{fullhash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{fullhashraw}{df7216551a347a311ad19e10333d1e1c}
+      \strng{bibnamehash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{authorbibnamehash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{authornamehash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{authorfullhash}{df7216551a347a311ad19e10333d1e1c}
+      \strng{authorfullhashraw}{df7216551a347a311ad19e10333d1e1c}
+      \field{sortinit}{ภู่}
+      \field{sortinithash}{eee99e0df11072ab44f324d4df3e3918}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{การออกแบบรูปแบบเอกสารสำหรับปริญญานิพนธ์ด้วยโปรแกรมสำเร็จรูป LaTex ภาษาไทย}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nuir.lib.nu.ac.th/dspace/bitstream/123456789/1302/1/Thanya%20Poowarodom.pdf
+      \endverb
+      \verb{url}
+      \verb https://nuir.lib.nu.ac.th/dspace/bitstream/123456789/1302/1/Thanya%20Poowarodom.pdf
+      \endverb
+    \endentry
+    \entry{wanwaree2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=419c7aa34de6c3f0215e7c74878513b0}{%
+           family={หวานวารี},
+           familyi={ห\bibinitperiod},
+           given={ฑิตยา},
+           giveni={ฑิ\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {จุฬาลงกรณ์มหาวิทยาลัย}%
+      }
+      \strng{namehash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{fullhash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{fullhashraw}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{bibnamehash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{authorbibnamehash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{authornamehash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{authorfullhash}{419c7aa34de6c3f0215e7c74878513b0}
+      \strng{authorfullhashraw}{419c7aa34de6c3f0215e7c74878513b0}
+      \field{sortinit}{ห}
+      \field{sortinithash}{e1438694a9ea1e7316fe34e8934c7b14}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{การใช้ {LaTeX} สำหรับสร้างเอกสารงานวิชาการ}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://pioneer.netserv.chula.ac.th/~wdittaya/LaTeX/2022-09-17-tutorial.pdf
+      \endverb
+      \verb{url}
+      \verb http://pioneer.netserv.chula.ac.th/~wdittaya/LaTeX/2022-09-17-tutorial.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

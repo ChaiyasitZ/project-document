@@ -1,0 +1,80 @@
+\documentclass{Class/project_report}
+\setTHSarabunFont
+\geometry{a4paper,top=1.5in,bottom=1in,left=1.5in,right=1in}
+\pagestyle{plain} % ตั้งค่า pagestyle เริ่มต้น
+\newcolumntype{L}{>{\RaggedRight\arraybackslash}X} 
+\begin{document}
+
+    % Setup for Figures (centered label and text)
+    \captionsetup[figure]{
+      font={normalsize},
+      labelfont={bold16pt},
+      labelsep=quad,
+      justification=centering,
+      singlelinecheck=false,
+      name={ภาพที่} % Add this line
+    }
+    % Setup for Tables (raggedright label and text)
+    \captionsetup[table]{
+      font={normalsize},
+      labelfont={bold16pt},
+      labelsep=quad,
+      justification=raggedright,
+      singlelinecheck=false,
+      name={ตารางที่} % Add this line
+    }
+    \input{Project_000_Cover}
+
+    
+    \input{Project_001_Certificate1} %กรณี ไม่มี ที่ปรึกษาร่วม
+    %\input{Project_001_Certificate2} %กรณี มี ที่ปรึกษาร่วม
+
+    
+    \newpage
+    \thaiPageStyle
+    \setcounter{page}{1}
+    \fontSixTeen
+    \justifying
+    \input{Project_002_Abstract}
+    \newgeometry{a4paper,top=1.5in,bottom=1in,left=1.5in,right=1in,includehead}
+    \setTHSarabunFont
+    \fontsize{16}{16}\selectfont
+    \thaiPageStyle
+    \customTOCthai
+    \newpage
+    \customLOFthai
+    \newpage
+    \customLOTthai
+    \clearpage % ขึ้นหน้าใหม่หลังจากหน้าที่มีการปรับ margin
+    \restoregeometry % คืนค่า geometry กลับเป็นค่าเริ่มต้น
+    \fancyhf{} % ล้างการตั้งค่า fancyhdr ของหน้าที่ปรับ
+    \setTHSarabunFont
+    \fontsize{16}{16}\selectfont
+    \thaiPageStyle
+    
+    \newpage
+    \setlength{\headheight}{0cm}
+    \setcounter{page}{1}
+    \arabicPageTopRight % ตั้งค่าต่อไปใช้สไตล์อารบิกมุมขวาบน
+    \customTOCarabic
+    \input{Project_010_Chapter1}
+    \input{Project_020_Chapter2}
+    \input{Project_030_Chapter3}
+    \input{Project_040_Chapter4}
+    \input{Project_050_Chapter5}
+
+    \newgeometry{a4paper,top=1in,bottom=1in,left=1.5in,right=1in,includehead}
+    \setTHSarabunFont
+    \fontsize{16}{16}\selectfont
+    \arabicPageTopRight
+    \printbibliography[heading=mybibheading]
+    \clearpage % ขึ้นหน้าใหม่หลังจากหน้าที่มีการปรับ margin
+    \restoregeometry % คืนค่า geometry กลับเป็นค่าเริ่มต้น
+    \fancyhf{} % ล้างการตั้งค่า fancyhdr ของหน้าที่ปรับ
+    \setlength{\headsep}{0in}
+    
+    \appendixTitlePage
+    \input{Project_101_AppendixA}
+    \input{Project_102_AppendixB}
+
+\end{document}
