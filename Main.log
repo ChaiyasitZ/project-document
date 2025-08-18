@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.13)  18 AUG 2025 23:43
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.13)  19 AUG 2025 01:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1483,8 +1483,9 @@ Package biblatex Info: Automatic encoding selection.
 \openout6 = `Main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Main.bbl' found.
- (./Main.bbl)
+Package biblatex Info: ... file 'Main.bbl' not found.
+
+No file Main.bbl.
 Package biblatex Info: Reference section=0 on input line 6.
 Package biblatex Info: Reference segment=0 on input line 6.
 
@@ -1501,7 +1502,7 @@ Package fontspec Info:
 (fontspec)             output, and if it is okay then ignore this warning.
 (fontspec)             Otherwise a different font should be chosen.
 
- (./Project_000_Cover.tex
+(./Project_000_Cover.tex
 File: Image/Logo_KMUTNB_Thai.png Graphic file (type bmp)
 <Image/Logo_KMUTNB_Thai.png>
 
@@ -1524,7 +1525,7 @@ File: Image/Logo_KMUTNB_Thai.png Graphic file (type bmp)
 [1]
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 100--106
+Underfull \hbox (badness 10000) in paragraph at lines 105--111
 
  []
 
@@ -1581,7 +1582,11 @@ Package fontspec Info:
 (fontspec)             Otherwise a different font should be chosen.
 
 \c@tocstartpage=\count574
-(./Main.toc
+(./Main.toc)
+\tf@toc=\write8
+\openout8 = `Main.toc'.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -1593,11 +1598,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [4
 
 
-])
-\tf@toc=\write8
-\openout8 = `Main.toc'.
-
-
+]
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -1656,6 +1657,19 @@ Package fontspec Info:
 (fontspec)             Otherwise a different font should be chosen.
 
  (./Project_010_Chapter1.tex
+
+LaTeX Warning: Citation 'kopka2004guide' on page 1 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'lamport1994latex' on page 1 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'latexprojectabout' on page 1 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'gratzer2008practical' on page 1 undefined on input line 16.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1751,6 +1765,10 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 
 [9]
 
+LaTeX Warning: Citation 'overleaflearn' on page 10 undefined on input line 230.
+
+
+
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 16.0pt, for example:
@@ -1758,7 +1776,17 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[10]) (./Project_030_Chapter3.tex
+[10]
+
+LaTeX Warning: Citation 'wanwaree2023' on page 11 undefined on input line 244.
+
+
+LaTeX Warning: Citation 'lampangrajabhat2013' on page 11 undefined on input line 248.
+
+
+LaTeX Warning: Citation 'Tanya2008' on page 11 undefined on input line 252.
+
+) (./Project_030_Chapter3.tex
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1994,21 +2022,19 @@ Package fontspec Info:
 (fontspec)             output, and if it is okay then ignore this warning.
 (fontspec)             Otherwise a different font should be chosen.
 
-\c@bibstartpage=\count577
+
+LaTeX Warning: Empty bibliography on input line 70.
+
 
 
 [27
 
 
-]
-
-[28
-
 
 
 ] (./Project_101_AppendixA.tex
 
-[29
+[28
 
 
 ]
@@ -2025,7 +2051,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[30
+[29
 
 ]
 File: Image/Overfeaf-3.png Graphic file (type bmp)
@@ -2047,7 +2073,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[31]
+[30]
 
 
 Package fancyhdr Warning: \headheight is too small (15.07054pt): 
@@ -2056,7 +2082,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[32]
+[31]
 File: Image/Overfeaf-8.png Graphic file (type bmp)
 <Image/Overfeaf-8.png>
 File: Image/Overfeaf-9.png Graphic file (type bmp)
@@ -2076,7 +2102,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[33]
+[32]
 
 
 Package fancyhdr Warning: \headheight is too small (15.07054pt): 
@@ -2085,9 +2111,9 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[34]
+[33]
 
-[35
+[34
 
 ]
 File: Image/CreateFile-1.png Graphic file (type bmp)
@@ -2115,7 +2141,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[36
+[35
 
 ]
 
@@ -2126,7 +2152,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[37] 
+[36] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./Main.aux)
  ***********
@@ -2138,23 +2164,27 @@ L3 programming layer <2025-07-20>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 1FA02312C420CD48FE5A9A6E91CD1C7D;7345.
+(rerunfilecheck)             Checksum: B23C31A59048200417B9F891DC161C95;7219.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Main.run.xml'.
 \openout1 = `Main.run.xml'.
 
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 70 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 53944 strings out of 468442
- 1137094 string characters out of 5449248
- 2283792 words of memory out of 5000000
- 81607 multiletter control sequences out of 15000+600000
+ 53849 strings out of 468442
+ 1134187 string characters out of 5449248
+ 2283272 words of memory out of 5000000
+ 81514 multiletter control sequences out of 15000+600000
  630814 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,13n,131p,2554b,5370s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Main.pdf (48 pages).
+Output written on Main.pdf (47 pages).

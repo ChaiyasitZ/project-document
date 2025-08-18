@@ -50,9 +50,8 @@
 \contentsline {section}{\numberline {5.2}ปัญหาและอุปสรรค}{25}{section.5.2}%
 \contentsline {section}{\numberline {5.3}การแก้ปัญหา}{25}{section.5.3}%
 \contentsline {section}{\numberline {5.4}ข้อเสนอแนะ}{26}{section.5.4}%
-\contentsline {chapter}{บรรณานุกรม}{27}{section*.25}%
-\contentsline {chapter}{ภาคผนวก}{28}{section*.26}%
-\contentsline {chapter}{ภาคผนวก ก: การนำ Template มาใช้งาน}{29}{section*.27}%
-\contentsline {section}{\numberline {ก.1}การนำ Template มาใช้งาน}{30}{section.6.1}%
-\contentsline {chapter}{ภาคผนวก ข: การเพิ่มไฟล์ภาคผนวก}{35}{section*.40}%
-\contentsline {section}{\numberline {ข.1}การเพิ่มไฟล์ภาคผนวก}{36}{section.7.1}%
+\contentsline {chapter}{ภาคผนวก}{27}{section*.25}%
+\contentsline {chapter}{ภาคผนวก ก: การนำ Template มาใช้งาน}{28}{section*.26}%
+\contentsline {section}{\numberline {ก.1}การนำ Template มาใช้งาน}{29}{section.6.1}%
+\contentsline {chapter}{ภาคผนวก ข: การเพิ่มไฟล์ภาคผนวก}{34}{section*.39}%
+\contentsline {section}{\numberline {ข.1}การเพิ่มไฟล์ภาคผนวก}{35}{section.7.1}%

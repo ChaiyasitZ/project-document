@@ -9,20 +9,20 @@
 \contentsline {figure}{\numberline {3-8}{\ignorespaces \fontsize {16}{16}\selectfont {ตัวอย่างการเขียนข้อมูลบรรณานุกรมใน bib file}}}{21}{figure.caption.20}%
 \contentsline {figure}{\numberline {3-9}{\ignorespaces \fontsize {16}{16}\selectfont {ตัวอย่างการเขียนอ้างอิงในเนื้อหา}}}{21}{figure.caption.21}%
 \contentsline {figure}{\numberline {4-1}{\ignorespaces \fontsize {16}{16}\selectfont {โครงสร้างไฟล์ทั้งหมด}}}{24}{figure.caption.23}%
-\contentsline {figure}{\numberline {ก-1}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าแรกของเว็บไซต์ Overleaf}}}{30}{figure.caption.28}%
-\contentsline {figure}{\numberline {ก-2}{\ignorespaces \fontsize {16}{16}\selectfont {หน้า Sign up ของเว็บไซต์ Overleaf}}}{30}{figure.caption.29}%
-\contentsline {figure}{\numberline {ก-3}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าเลือกบัญชี Google สำหรับสมัครสมาชิก}}}{31}{figure.caption.30}%
-\contentsline {figure}{\numberline {ก-4}{\ignorespaces \fontsize {16}{16}\selectfont {หน้ายืนยันให้ Overleaf เข้าถึงข้อมูล}}}{31}{figure.caption.31}%
-\contentsline {figure}{\numberline {ก-5}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าเว็บไซต์ Overleaf หลังลงทะเบียน}}}{32}{figure.caption.32}%
-\contentsline {figure}{\numberline {ก-6}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าตรวจสอบข้อมูลส่วนตัว}}}{32}{figure.caption.33}%
-\contentsline {figure}{\numberline {ก-7}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าแรกหลังจากลงทะเบียนเว็บไซต์ Overleaf สำเร็จแล้ว}}}{32}{figure.caption.34}%
-\contentsline {figure}{\numberline {ก-8}{\ignorespaces \fontsize {16}{16}\selectfont {หน้า Upload a .zip file}}}{33}{figure.caption.35}%
-\contentsline {figure}{\numberline {ก-9}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าสำหรับการแก้ไขเนื้อหาใน Overleaf}}}{33}{figure.caption.36}%
-\contentsline {figure}{\numberline {ก-10}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าสำหรับเปลี่ยน Compiler และ Spell check}}}{34}{figure.caption.37}%
-\contentsline {figure}{\numberline {ก-11}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าหลังจากที่เปลี่ยน Compile เป็น "XeLaTex"}}}{34}{figure.caption.38}%
-\contentsline {figure}{\numberline {ก-12}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าสำหรับเปลี่ยน Compiler}}}{34}{figure.caption.39}%
-\contentsline {figure}{\numberline {ข-1}{\ignorespaces \fontsize {16}{16}\selectfont {ตั้งชื่อไฟล์ .tex}}}{36}{figure.caption.41}%
-\contentsline {figure}{\numberline {ข-2}{\ignorespaces \fontsize {16}{16}\selectfont {เพิ่มเนื้อหาลงไปในไฟล์ .tex}}}{36}{figure.caption.42}%
-\contentsline {figure}{\numberline {ข-3}{\ignorespaces \fontsize {16}{16}\selectfont {เพิ่มโค้ดสำหรับเรียกไฟล์ .tex ที่สร้างใหม่}}}{37}{figure.caption.43}%
-\contentsline {figure}{\numberline {ข-4}{\ignorespaces \fontsize {16}{16}\selectfont {ภาคผนวก ค. แสดงหลังจาก Recompile}}}{37}{figure.caption.44}%
-\contentsline {figure}{\numberline {ข-5}{\ignorespaces \fontsize {16}{16}\selectfont {ตัวอย่างการ Comment ไฟล์ .tex ที่ไม่ต้องการแสดง}}}{37}{figure.caption.45}%
+\contentsline {figure}{\numberline {ก-1}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าแรกของเว็บไซต์ Overleaf}}}{29}{figure.caption.27}%
+\contentsline {figure}{\numberline {ก-2}{\ignorespaces \fontsize {16}{16}\selectfont {หน้า Sign up ของเว็บไซต์ Overleaf}}}{29}{figure.caption.28}%
+\contentsline {figure}{\numberline {ก-3}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าเลือกบัญชี Google สำหรับสมัครสมาชิก}}}{30}{figure.caption.29}%
+\contentsline {figure}{\numberline {ก-4}{\ignorespaces \fontsize {16}{16}\selectfont {หน้ายืนยันให้ Overleaf เข้าถึงข้อมูล}}}{30}{figure.caption.30}%
+\contentsline {figure}{\numberline {ก-5}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าเว็บไซต์ Overleaf หลังลงทะเบียน}}}{31}{figure.caption.31}%
+\contentsline {figure}{\numberline {ก-6}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าตรวจสอบข้อมูลส่วนตัว}}}{31}{figure.caption.32}%
+\contentsline {figure}{\numberline {ก-7}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าแรกหลังจากลงทะเบียนเว็บไซต์ Overleaf สำเร็จแล้ว}}}{31}{figure.caption.33}%
+\contentsline {figure}{\numberline {ก-8}{\ignorespaces \fontsize {16}{16}\selectfont {หน้า Upload a .zip file}}}{32}{figure.caption.34}%
+\contentsline {figure}{\numberline {ก-9}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าสำหรับการแก้ไขเนื้อหาใน Overleaf}}}{32}{figure.caption.35}%
+\contentsline {figure}{\numberline {ก-10}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าสำหรับเปลี่ยน Compiler และ Spell check}}}{33}{figure.caption.36}%
+\contentsline {figure}{\numberline {ก-11}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าหลังจากที่เปลี่ยน Compile เป็น "XeLaTex"}}}{33}{figure.caption.37}%
+\contentsline {figure}{\numberline {ก-12}{\ignorespaces \fontsize {16}{16}\selectfont {หน้าสำหรับเปลี่ยน Compiler}}}{33}{figure.caption.38}%
+\contentsline {figure}{\numberline {ข-1}{\ignorespaces \fontsize {16}{16}\selectfont {ตั้งชื่อไฟล์ .tex}}}{35}{figure.caption.40}%
+\contentsline {figure}{\numberline {ข-2}{\ignorespaces \fontsize {16}{16}\selectfont {เพิ่มเนื้อหาลงไปในไฟล์ .tex}}}{35}{figure.caption.41}%
+\contentsline {figure}{\numberline {ข-3}{\ignorespaces \fontsize {16}{16}\selectfont {เพิ่มโค้ดสำหรับเรียกไฟล์ .tex ที่สร้างใหม่}}}{36}{figure.caption.42}%
+\contentsline {figure}{\numberline {ข-4}{\ignorespaces \fontsize {16}{16}\selectfont {ภาคผนวก ค. แสดงหลังจาก Recompile}}}{36}{figure.caption.43}%
+\contentsline {figure}{\numberline {ข-5}{\ignorespaces \fontsize {16}{16}\selectfont {ตัวอย่างการ Comment ไฟล์ .tex ที่ไม่ต้องการแสดง}}}{36}{figure.caption.44}%
