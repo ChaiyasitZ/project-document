@@ -9,49 +9,49 @@
 \contentsline {section}{\numberline {1.1}ความเป็นมาและความสำคัญ}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}วัตถุประสงค์ของโครงงาน}{1}{section.1.2}%
 \contentsline {section}{\numberline {1.3}ขอบเขตของการทําโครงงาน}{2}{section.1.3}%
-\contentsline {section}{\numberline {1.4}ประโยชน์ที่คาดว่าจะได้รับ}{3}{section.1.4}%
-\contentsline {chapter}{บทที่ 2\hspace {0.6em}แนวคิด ทฤษฎี และงานวิจัยที่เกี่ยวข้อง}{4}{chapter*.9}%
-\contentsline {section}{\numberline {2.1}แนวคิดพื้นฐานเกี่ยวกับโครงงาน}{4}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}ความสำคัญของปริญญานิพนธ์และเอกสารวิชาการ}{4}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}บทบาทของเทคโนโลยีในการจัดทำเอกสารวิชาการ}{5}{subsection.2.1.2}%
-\contentsline {section}{\numberline {2.2}แนวคิดและทฤษฎีที่เกี่ยวข้องกับ LaTeX}{6}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}ความเป็นมาและวิวัฒนาการของ LaTeX}{6}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}ความนิยมและการยอมรับในแวดวงวิชาการและวิทยาศาสตร์}{7}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}สถาปัตยกรรมและหลักการทำงานของ LaTeX}{8}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}รายงานการค้นคว้า การศึกษา หรืองานวิจัยที่เกี่ยวข้อง}{11}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}การใช้ LaTeX สำหรับสร้างเอกสารงานวิชาการ}{11}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}การพัฒนาการจัดทำเอกสารวิชาการด้วยภาษา TeX}{11}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}การออกแบบรูปแบบเอกสารสำหรับปริญญานิพนธ์ด้วยโปรแกรมสำเร็จรูป LaTex ภาษาไทย}{11}{subsection.2.3.3}%
-\contentsline {chapter}{บทที่ 3\hspace {0.6em}วิธีการดำเนินงาน}{12}{chapter*.11}%
-\contentsline {section}{\numberline {3.1}การเตรียมสภาพแวดล้อมการทำงาน}{12}{section.3.1}%
-\contentsline {section}{\numberline {3.2}โครงสร้างเอกสาร LaTeX และการตั้งค่าพื้นฐาน}{13}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}คลาสเอกสารและขนาดกระดาษ}{13}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}การตั้งค่าฟอนต์และภาษา}{13}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}การจัดการย่อหน้า}{13}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}แพ็กเกจที่จำเป็น}{13}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}การจัดโครงสร้างไฟล์}{14}{subsection.3.2.5}%
-\contentsline {section}{\numberline {3.3}การดำเนินการเขียนและการจัดรูปแบบ}{14}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}การกำหนดบท (Chapter)}{14}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}การกำหนดหัวข้อรอง}{15}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}การใช้งานรูปภาพ}{15}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}การใช้งานตาราง}{15}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}การสร้างรายการ (Lists)}{17}{subsection.3.3.5}%
-\contentsline {subsection}{\numberline {3.3.6}การจัดการบรรณานุกรม}{20}{subsection.3.3.6}%
-\contentsline {chapter}{บทที่ 4\hspace {0.6em}ผลการดำเนินงาน}{22}{chapter*.22}%
-\contentsline {section}{\numberline {4.1}โครงสร้างโฟลเดอร์}{22}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}โฟลเดอร์ Class}{22}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}โฟลเดอร์ Font}{22}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}โฟลเดอร์ Image}{23}{subsection.4.1.3}%
-\contentsline {section}{\numberline {4.2}โครงสร้างไฟล์}{23}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}ไฟล์เอกสารหลัก}{23}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}ตัวอย่างโครงสร้างไฟล์ทั้งหมด}{23}{subsection.4.2.2}%
-\contentsline {chapter}{บทที่ 5\hspace {0.6em}สรุปผลการดำเนินงาน}{25}{chapter*.24}%
-\contentsline {section}{\numberline {5.1}สรุปผลการดำเนินงาน}{25}{section.5.1}%
-\contentsline {section}{\numberline {5.2}ปัญหาและอุปสรรค}{25}{section.5.2}%
-\contentsline {section}{\numberline {5.3}การแก้ปัญหา}{25}{section.5.3}%
-\contentsline {section}{\numberline {5.4}ข้อเสนอแนะ}{26}{section.5.4}%
-\contentsline {chapter}{ภาคผนวก}{27}{section*.25}%
-\contentsline {chapter}{ภาคผนวก ก: การนำ Template มาใช้งาน}{28}{section*.26}%
-\contentsline {section}{\numberline {ก.1}การนำ Template มาใช้งาน}{29}{section.6.1}%
-\contentsline {chapter}{ภาคผนวก ข: การเพิ่มไฟล์ภาคผนวก}{34}{section*.39}%
-\contentsline {section}{\numberline {ข.1}การเพิ่มไฟล์ภาคผนวก}{35}{section.7.1}%
+\contentsline {section}{\numberline {1.4}ประโยชน์ที่คาดว่าจะได้รับ}{4}{section.1.4}%
+\contentsline {chapter}{บทที่ 2\hspace {0.6em}แนวคิด ทฤษฎี และงานวิจัยที่เกี่ยวข้อง}{5}{chapter*.9}%
+\contentsline {section}{\numberline {2.1}แนวคิดพื้นฐานเกี่ยวกับโครงงาน}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}ความสำคัญของปริญญานิพนธ์และเอกสารวิชาการ}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}บทบาทของเทคโนโลยีในการจัดทำเอกสารวิชาการ}{6}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}แนวคิดและทฤษฎีที่เกี่ยวข้องกับ LaTeX}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}ความเป็นมาและวิวัฒนาการของ LaTeX}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}ความนิยมและการยอมรับในแวดวงวิชาการและวิทยาศาสตร์}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}สถาปัตยกรรมและหลักการทำงานของ LaTeX}{9}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}รายงานการค้นคว้า การศึกษา หรืองานวิจัยที่เกี่ยวข้อง}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}การใช้ LaTeX สำหรับสร้างเอกสารงานวิชาการ}{12}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}การพัฒนาการจัดทำเอกสารวิชาการด้วยภาษา TeX}{12}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}การออกแบบรูปแบบเอกสารสำหรับปริญญานิพนธ์ด้วยโปรแกรมสำเร็จรูป LaTex ภาษาไทย}{12}{subsection.2.3.3}%
+\contentsline {chapter}{บทที่ 3\hspace {0.6em}วิธีการดำเนินงาน}{13}{chapter*.11}%
+\contentsline {section}{\numberline {3.1}การเตรียมสภาพแวดล้อมการทำงาน}{13}{section.3.1}%
+\contentsline {section}{\numberline {3.2}โครงสร้างเอกสาร LaTeX และการตั้งค่าพื้นฐาน}{14}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}คลาสเอกสารและขนาดกระดาษ}{14}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}การตั้งค่าฟอนต์และภาษา}{14}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}การจัดการย่อหน้า}{14}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}แพ็กเกจที่จำเป็น}{14}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}การจัดโครงสร้างไฟล์}{15}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}การดำเนินการเขียนและการจัดรูปแบบ}{15}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}การกำหนดบท (Chapter)}{15}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}การกำหนดหัวข้อรอง}{16}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}การใช้งานรูปภาพ}{16}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}การใช้งานตาราง}{16}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}การสร้างรายการ (Lists)}{18}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}การจัดการบรรณานุกรม}{21}{subsection.3.3.6}%
+\contentsline {chapter}{บทที่ 4\hspace {0.6em}ผลการดำเนินงาน}{23}{chapter*.22}%
+\contentsline {section}{\numberline {4.1}โครงสร้างโฟลเดอร์}{23}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}โฟลเดอร์ Class}{23}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}โฟลเดอร์ Font}{23}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}โฟลเดอร์ Image}{24}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}โครงสร้างไฟล์}{24}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}ไฟล์เอกสารหลัก}{24}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}ตัวอย่างโครงสร้างไฟล์ทั้งหมด}{24}{subsection.4.2.2}%
+\contentsline {chapter}{บทที่ 5\hspace {0.6em}สรุปผลการดำเนินงาน}{26}{chapter*.24}%
+\contentsline {section}{\numberline {5.1}สรุปผลการดำเนินงาน}{26}{section.5.1}%
+\contentsline {section}{\numberline {5.2}ปัญหาและอุปสรรค}{26}{section.5.2}%
+\contentsline {section}{\numberline {5.3}การแก้ปัญหา}{26}{section.5.3}%
+\contentsline {section}{\numberline {5.4}ข้อเสนอแนะ}{27}{section.5.4}%
+\contentsline {chapter}{ภาคผนวก}{28}{section*.25}%
+\contentsline {chapter}{ภาคผนวก ก: การนำ Template มาใช้งาน}{29}{section*.26}%
+\contentsline {section}{\numberline {ก.1}การนำ Template มาใช้งาน}{30}{section.6.1}%
+\contentsline {chapter}{ภาคผนวก ข: การเพิ่มไฟล์ภาคผนวก}{35}{section*.39}%
+\contentsline {section}{\numberline {ข.1}การเพิ่มไฟล์ภาคผนวก}{36}{section.7.1}%

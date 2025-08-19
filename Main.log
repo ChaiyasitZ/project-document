@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.13)  19 AUG 2025 01:43
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.13)  19 AUG 2025 16:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1525,7 +1525,7 @@ File: Image/Logo_KMUTNB_Thai.png Graphic file (type bmp)
 [1]
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 105--111
+Underfull \hbox (badness 10000) in paragraph at lines 114--120
 
  []
 
@@ -1658,19 +1658,6 @@ Package fontspec Info:
 
  (./Project_010_Chapter1.tex
 
-LaTeX Warning: Citation 'kopka2004guide' on page 1 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'lamport1994latex' on page 1 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'latexprojectabout' on page 1 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'gratzer2008practical' on page 1 undefined on input line 16.
-
-
-
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1692,7 +1679,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[2]) (./Project_020_Chapter2.tex
+[2]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1701,7 +1688,16 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[3]
+[3]) (./Project_020_Chapter2.tex
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 16.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
+
+[4]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1710,19 +1706,10 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
 
-[4
+[5
 
 
 ]
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 16.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{16.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
-
-[5]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1750,6 +1737,15 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
 [8]
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 16.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
+
+[9]
 Overfull \hbox (0.6012pt too wide) in paragraph at lines 156--157
 []\TU/THSarabunNew(0)/b/n/16 \begin{itemize} ... \end{itemize} \TU/THSarabunNew(0)/m/n/16 สำหรับ สร้าง รายการ แบบ จุด (bullet points) 
  []
@@ -1763,30 +1759,11 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[9]
-
-LaTeX Warning: Citation 'overleaflearn' on page 10 undefined on input line 230.
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 16.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{16.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
-
 [10]
 
-LaTeX Warning: Citation 'wanwaree2023' on page 11 undefined on input line 244.
+LaTeX Warning: Citation 'overleaflearn' on page 11 undefined on input line 230.
 
 
-LaTeX Warning: Citation 'lampangrajabhat2013' on page 11 undefined on input line 248.
-
-
-LaTeX Warning: Citation 'Tanya2008' on page 11 undefined on input line 252.
-
-) (./Project_030_Chapter3.tex
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1797,6 +1774,25 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 
 [11]
 
+LaTeX Warning: Citation 'wanwaree2023' on page 12 undefined on input line 244.
+
+
+LaTeX Warning: Citation 'lampangrajabhat2013' on page 12 undefined on input line 248.
+
+
+LaTeX Warning: Citation 'Tanya2008' on page 12 undefined on input line 252.
+
+) (./Project_030_Chapter3.tex
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 16.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
+
+[12]
+
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1804,7 +1800,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
 
-[12
+[13
 
 
 ]
@@ -1819,7 +1815,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[13]
+[14]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1828,7 +1824,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[14]
+[15]
 File: Image/ExampleTeXworksPhoto.png Graphic file (type bmp)
 <Image/ExampleTeXworksPhoto.png>
 
@@ -1840,7 +1836,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[15]
+[16]
 File: Image/ExampleCreateTable.png Graphic file (type bmp)
 <Image/ExampleCreateTable.png>
 
@@ -1857,7 +1853,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[16]
+[17]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1866,7 +1862,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[17]
+[18]
 File: Image/ExampleCreateEnum.png Graphic file (type bmp)
 <Image/ExampleCreateEnum.png>
 File: Image/ExampleCreateEnum2.png Graphic file (type bmp)
@@ -1880,7 +1876,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[18]
+[19]
 File: Image/ExampleCreateItem.png Graphic file (type bmp)
 <Image/ExampleCreateItem.png>
 
@@ -1892,7 +1888,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[19]
+[20]
 File: Image/ExampleCreateEnum2MixItem.png Graphic file (type bmp)
 <Image/ExampleCreateEnum2MixItem.png>
 File: Image/ExampleBib.png Graphic file (type bmp)
@@ -1906,7 +1902,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[20]
+[21]
 File: Image/ExampleRefInContent.png Graphic file (type bmp)
 <Image/ExampleRefInContent.png>
 ) (./Project_040_Chapter4.tex
@@ -1918,7 +1914,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[21]
+[22]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1927,7 +1923,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
 
-[22
+[23
 
 
 ]
@@ -1939,7 +1935,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[23]
+[24]
 File: Image/Structure_files.png Graphic file (type bmp)
 <Image/Structure_files.png>
 ) (./Project_050_Chapter5.tex
@@ -1951,7 +1947,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[24]
+[25]
 
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1960,7 +1956,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
 
-[25
+[26
 
 
 ])
@@ -1972,7 +1968,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-16.0pt}.
 
-[26]
+[27]
 
 Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 
@@ -2027,14 +2023,14 @@ LaTeX Warning: Empty bibliography on input line 70.
 
 
 
-[27
+[28
 
 
 
 
 ] (./Project_101_AppendixA.tex
 
-[28
+[29
 
 
 ]
@@ -2051,7 +2047,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[29
+[30
 
 ]
 File: Image/Overfeaf-3.png Graphic file (type bmp)
@@ -2073,7 +2069,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[30]
+[31]
 
 
 Package fancyhdr Warning: \headheight is too small (15.07054pt): 
@@ -2082,7 +2078,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[31]
+[32]
 File: Image/Overfeaf-8.png Graphic file (type bmp)
 <Image/Overfeaf-8.png>
 File: Image/Overfeaf-9.png Graphic file (type bmp)
@@ -2102,7 +2098,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[32]
+[33]
 
 
 Package fancyhdr Warning: \headheight is too small (15.07054pt): 
@@ -2111,9 +2107,9 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[33]
+[34]
 
-[34
+[35
 
 ]
 File: Image/CreateFile-1.png Graphic file (type bmp)
@@ -2141,7 +2137,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[35
+[36
 
 ]
 
@@ -2152,7 +2148,7 @@ Package fancyhdr Warning: \headheight is too small (15.07054pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.92946pt}.
 
-[36] 
+[37] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./Main.aux)
  ***********
@@ -2181,10 +2177,10 @@ Package logreq Info: Writing requests to 'Main.run.xml'.
 Here is how much of TeX's memory you used:
  53849 strings out of 468442
  1134187 string characters out of 5449248
- 2283272 words of memory out of 5000000
+ 2283131 words of memory out of 5000000
  81514 multiletter control sequences out of 15000+600000
  630814 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,13n,131p,2554b,5370s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Main.pdf (47 pages).
+Output written on Main.pdf (48 pages).
